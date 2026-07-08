@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemRetribusiParkir")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d97c78f57916c708acd9765c0c8712812420c00")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemRetribusiParkir")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemRetribusiParkir")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
