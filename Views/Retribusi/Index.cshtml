@@ -1,0 +1,98 @@
+@model IEnumerable<SistemRetribusiParkir.Models.Retribusi>
+
+@{
+    ViewData["Title"] = "Transaksi Retribusi";
+}
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between mb-3">
+
+        <h2>Transaksi Retribusi Parkir</h2>
+
+        <a asp-action="Create" class="btn btn-primary">
+
+            <i class="bi bi-plus-circle"></i> 
+            
+            Tambah Transaksi
+
+        </a>
+
+    </div>
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">
+
+            @TempData["Success"]
+
+        </div>
+    }
+
+    <table class="table table-bordered table-striped">
+
+        <thead class="table-dark">
+
+            <tr>
+
+                <th>Tanggal</th>
+
+                <th>No Polisi</th>
+
+                <th>Lokasi</th>
+
+                <th>Jenis</th>
+
+                <th>Petugas</th>
+
+                <th>Tarif</th>
+
+                <th>Bayar</th>
+
+                <th width="180">Aksi</th>
+
+            </tr>
+
+        </thead>
+
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>@item.Tanggal.ToString("dd/MM/yyyy")</td>
+
+                    <td>@item.NomorKendaraan</td>
+
+                    <td>@item.LokasiParkir?.NamaLokasi</td>
+
+                    <td>@item.JenisKendaraan?.NamaJenis</td>
+
+                    <td>@item.Petugas?.NamaPetugas</td>
+
+                    <td>Rp @item.Tarif.ToString("N0")</td>
+
+                    <td>Rp @item.JumlahBayar.ToString("N0")</td>
+                    <td>
+
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">
+                            <i class="bi bi-pencil"></i> Edit
+                        </a>
+
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm"
+                           onclick="return confirm('Yakin ingin menghapus transaksi ini?')">
+                            <i class="bi bi-trash"></i> Hapus
+
+                        </a>
+
+                    </td>
+
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+
+</div>

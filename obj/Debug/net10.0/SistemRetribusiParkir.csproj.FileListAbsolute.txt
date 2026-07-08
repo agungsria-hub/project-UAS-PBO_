@@ -1,0 +1,490 @@
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\appsettings.json
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\SistemRetribusiParkir.staticwebassets.runtime.json
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\SistemRetribusiParkir.staticwebassets.endpoints.json
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\SistemRetribusiParkir.exe
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\SistemRetribusiParkir.deps.json
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\SistemRetribusiParkir.runtimeconfig.json
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\SistemRetribusiParkir.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\SistemRetribusiParkir.pdb
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.AssemblyInfoInputs.cache
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.AssemblyInfo.cs
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.csproj.CoreCompileInputs.cache
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.RazorAssemblyInfo.cache
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.RazorAssemblyInfo.cs
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\scopedcss\bundle\SistemRetribusiParkir.styles.css
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\scopedcss\projectbundle\SistemRetribusiParkir.bundle.scp.css
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\cqgqrs7un2-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\idpfd8baay-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\cwt9dv0pv8-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\sszbqk9gky-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\i4ud2h542z-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\uthh25q1wp-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\6jduz1ubgg-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\jmznesem7u-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\zln69p0ldz-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\7tgm4gml4o-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\oj75nyqoue-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\zk7ljg17p1-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\x3xsskjm7q-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\ud1il7w3pr-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\rfqgctzxjq-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\48x7vmv2oh-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\w19ql8mvk6-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\l8thqfl225-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\s3sd3vz8cn-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\10j06iz78d-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\z81owxla3g-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\m2hjuta5e8-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\sxuf032sl9-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\96iaqkqfkb-{0}-06098lyss8-06098lyss8.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\6q69qpjwgf-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\v1y3w3he1b-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\espxuio28l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\0o7hgovh3z-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\so2bt8vodn-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\miymtacn8s-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\6ux4td6613-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\8id15cfkpp-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\ij75ltn8tk-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\hae0eimaad-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\lvxo0v3v8v-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\nackc6mzty-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\mm46qw6xwb-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\5nfwwjynm2-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\o16yrvhhxx-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\e6pwu6wzz5-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\qbg61mva19-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\i4cisnkshm-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\qiqx09kwjj-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\f8tv764w9z-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\fnw9vf7v7o-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\7calu98cky-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\deb68zgf7a-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\734f7m0hta-{0}-356vix0kms-356vix0kms.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\547nd3sebw-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\8839yeewaf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\pwbubjvass-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\6ms0d492tr-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\tir9pqjj68-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\7oz7uydojh-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\czdbgj5aw7-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\k2jtnzsbhi-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\cib02jiw1j-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\c3pssimms9-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\uptv1y9itb-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\w9i1li8xak-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\404f5qo95g-{0}-g8371qahd4-g8371qahd4.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\klex507rii-{0}-g8371qahd4-g8371qahd4.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\refint\SistemRetribusiParkir.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.pdb
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.genruntimeconfig.cache
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\ref\SistemRetribusiParkir.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-Black.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-Bold.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-Italic.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-Light.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-Medium.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-Regular.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-Thin.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\OFL.txt
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ClosedXML.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ClosedXML.Parser.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\DocumentFormat.OpenXml.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ExcelNumberFormat.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Humanizer.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\MySqlConnector.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\QuestPDF.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\RBush.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\SixLabors.Fonts.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\System.IO.Packaging.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-arm64\native\libcrypto.so
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-arm64\native\libjpeg.so.8
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libcrypto.so
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libjpeg.so.8
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-x64\native\libcrypto.so
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-x64\native\libjpeg.so.8
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-x64\native\libqpdf.so
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-arm64\native\libcrypto.dylib
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-arm64\native\libjpeg.dylib
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-x64\native\libcrypto.dylib
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-x64\native\libjpeg.dylib
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x64\native\qpdf.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x86\native\qpdf.dll
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.csproj.AssemblyReference.cache
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\SistemRe.22E6A572.Up2Date
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\4y39hh5vqj-{0}-glvbqljmfu-glvbqljmfu.gz
+C:\Users\HYPE AMD\SistemRetribusiParkir\obj\Debug\net10.0\compressed\lfmz61fwx1-{0}-xsr074l97o-xsr074l97o.gz
+C:\SistemRetribusiParkir\bin\Debug\net10.0\appsettings.Development.json
+C:\SistemRetribusiParkir\bin\Debug\net10.0\appsettings.json
+C:\SistemRetribusiParkir\bin\Debug\net10.0\SistemRetribusiParkir.staticwebassets.runtime.json
+C:\SistemRetribusiParkir\bin\Debug\net10.0\SistemRetribusiParkir.staticwebassets.endpoints.json
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-Black.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-BlackItalic.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-Bold.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-BoldItalic.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-ExtraBold.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-ExtraLight.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-Italic.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-Light.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-LightItalic.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-Medium.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-MediumItalic.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-Regular.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-SemiBold.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-Thin.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\Lato-ThinItalic.ttf
+C:\SistemRetribusiParkir\bin\Debug\net10.0\LatoFont\OFL.txt
+C:\SistemRetribusiParkir\bin\Debug\net10.0\SistemRetribusiParkir.exe
+C:\SistemRetribusiParkir\bin\Debug\net10.0\SistemRetribusiParkir.deps.json
+C:\SistemRetribusiParkir\bin\Debug\net10.0\SistemRetribusiParkir.runtimeconfig.json
+C:\SistemRetribusiParkir\bin\Debug\net10.0\SistemRetribusiParkir.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\SistemRetribusiParkir.pdb
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ClosedXML.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ClosedXML.Parser.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\DocumentFormat.OpenXml.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\DocumentFormat.OpenXml.Framework.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ExcelNumberFormat.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Humanizer.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\MySqlConnector.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\QuestPDF.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\RBush.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\SixLabors.Fonts.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\System.CodeDom.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\System.IO.Packaging.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-arm64\native\libcrypto.so
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-arm64\native\libjpeg.so.8
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-arm64\native\libqpdf.so
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libcrypto.so
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libjpeg.so.8
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libqpdf.so
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-x64\native\libcrypto.so
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-x64\native\libjpeg.so.8
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\linux-x64\native\libqpdf.so
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-arm64\native\libcrypto.dylib
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-arm64\native\libjpeg.dylib
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-arm64\native\libqpdf.dylib
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-x64\native\libcrypto.dylib
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-x64\native\libjpeg.dylib
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\osx-x64\native\libqpdf.dylib
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x64\native\libstdc++-6.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x64\native\libwinpthread-1.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x64\native\qpdf.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x86\native\libstdc++-6.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x86\native\libwinpthread-1.dll
+C:\SistemRetribusiParkir\bin\Debug\net10.0\runtimes\win-x86\native\qpdf.dll
+C:\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.csproj.AssemblyReference.cache
+C:\SistemRetribusiParkir\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.AssemblyInfoInputs.cache
+C:\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.AssemblyInfo.cs
+C:\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.csproj.CoreCompileInputs.cache
+C:\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.MvcApplicationPartsAssemblyInfo.cache
+C:\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.RazorAssemblyInfo.cache
+C:\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.RazorAssemblyInfo.cs
+C:\SistemRetribusiParkir\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\SistemRetribusiParkir\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\SistemRetribusiParkir\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\SistemRetribusiParkir\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\SistemRetribusiParkir\obj\Debug\net10.0\scopedcss\bundle\SistemRetribusiParkir.styles.css
+C:\SistemRetribusiParkir\obj\Debug\net10.0\scopedcss\projectbundle\SistemRetribusiParkir.bundle.scp.css
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\4y39hh5vqj-{0}-glvbqljmfu-glvbqljmfu.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\cqgqrs7un2-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\lfmz61fwx1-{0}-xsr074l97o-xsr074l97o.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\idpfd8baay-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\cwt9dv0pv8-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\sszbqk9gky-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\i4ud2h542z-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\uthh25q1wp-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\6jduz1ubgg-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\jmznesem7u-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\zln69p0ldz-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\7tgm4gml4o-{0}-ub07r2b239-ub07r2b239.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\oj75nyqoue-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\zk7ljg17p1-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\x3xsskjm7q-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\ud1il7w3pr-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\rfqgctzxjq-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\48x7vmv2oh-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\w19ql8mvk6-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\l8thqfl225-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\s3sd3vz8cn-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\10j06iz78d-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\z81owxla3g-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\m2hjuta5e8-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\sxuf032sl9-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\96iaqkqfkb-{0}-06098lyss8-06098lyss8.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\6q69qpjwgf-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\v1y3w3he1b-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\espxuio28l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\0o7hgovh3z-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\so2bt8vodn-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\miymtacn8s-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\6ux4td6613-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\8id15cfkpp-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\ij75ltn8tk-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\hae0eimaad-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\lvxo0v3v8v-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\nackc6mzty-{0}-493y06b0oq-493y06b0oq.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\mm46qw6xwb-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\5nfwwjynm2-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\o16yrvhhxx-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\e6pwu6wzz5-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\qbg61mva19-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\i4cisnkshm-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\qiqx09kwjj-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\f8tv764w9z-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\fnw9vf7v7o-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\7calu98cky-{0}-47otxtyo56-47otxtyo56.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\deb68zgf7a-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\734f7m0hta-{0}-356vix0kms-356vix0kms.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\547nd3sebw-{0}-83jwlth58m-83jwlth58m.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\8839yeewaf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\pwbubjvass-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\6ms0d492tr-{0}-ag7o75518u-ag7o75518u.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\tir9pqjj68-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\7oz7uydojh-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\czdbgj5aw7-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\k2jtnzsbhi-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\cib02jiw1j-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\c3pssimms9-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\uptv1y9itb-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\w9i1li8xak-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\404f5qo95g-{0}-g8371qahd4-g8371qahd4.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\compressed\klex507rii-{0}-g8371qahd4-g8371qahd4.gz
+C:\SistemRetribusiParkir\obj\Debug\net10.0\staticwebassets.build.json
+C:\SistemRetribusiParkir\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\SistemRetribusiParkir\obj\Debug\net10.0\staticwebassets.development.json
+C:\SistemRetribusiParkir\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\SistemRetribusiParkir\obj\Debug\net10.0\swae.build.ex.cache
+C:\SistemRetribusiParkir\obj\Debug\net10.0\SistemRe.22E6A572.Up2Date
+C:\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.dll
+C:\SistemRetribusiParkir\obj\Debug\net10.0\refint\SistemRetribusiParkir.dll
+C:\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.pdb
+C:\SistemRetribusiParkir\obj\Debug\net10.0\SistemRetribusiParkir.genruntimeconfig.cache
+C:\SistemRetribusiParkir\obj\Debug\net10.0\ref\SistemRetribusiParkir.dll

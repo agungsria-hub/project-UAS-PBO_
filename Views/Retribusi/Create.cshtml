@@ -1,0 +1,96 @@
+@model SistemRetribusiParkir.Models.ViewModels.RetribusiViewModel
+
+@{
+    ViewData["Title"] = "Create Retribusi";
+}
+
+<div class="card shadow">
+
+    <div class="card-header bg-warning">
+
+        <h4 class="mb-0">
+            <i class="bi bi-pencil-square"></i>
+            Create Transaksi Retribusi
+        </h4>
+
+    </div>
+
+    <div class="card-body">
+
+        <form asp-action="Create" method="post">
+
+            <input asp-for="Retribusi.Id" type="hidden" />
+
+            <div asp-validation-summary="ModelOnly"
+                 class="alert alert-danger">
+            </div>
+
+            <partial name="_Form" model="Model" />
+
+            <div class="mt-3">
+
+                <button type="submit" class="btn btn-warning">
+                    <i class="bi bi-pencil-square"></i>
+                    Update
+                </button>
+
+                <a asp-action="Index" class="btn btn-secondary">
+                    <i class="bi bi-arrow-left"></i>
+                    Kembali
+                </a>
+
+            </div>
+
+        </form>
+
+    </div>
+
+</div>
+
+@section Scripts{
+
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+
+        $(document).ready(function () {
+
+            $("#JenisKendaraanId").change(function () {
+
+                let id = $(this).val();
+
+                if (!id) {
+
+                    $("#Retribusi_Tarif").val("");
+                    $("#Retribusi_JumlahBayar").val("");
+                    return;
+
+                }
+
+                $.ajax({
+
+                    url: "/JenisKendaraan/GetTarif/" + id,
+                    type: "GET",
+
+                    success: function (data) {
+
+                        $("#Retribusi_Tarif").val(data.tarif);
+                        $("#Retribusi_JumlahBayar").val(data.tarif);
+
+                    },
+
+                    error: function () {
+
+                        alert("Gagal mengambil tarif.");
+
+                    }
+
+                });
+
+            });
+
+        });
+
+    </script>
+
+}

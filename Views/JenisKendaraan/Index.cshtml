@@ -1,0 +1,184 @@
+@model IEnumerable<SistemRetribusiParkir.Models.JenisKendaraan>
+
+@{
+    ViewData["Title"] = "Data Jenis Kendaraan";
+}
+
+<div class="card shadow">
+
+    <div class="card-header d-flex justify-content-between align-items-center">
+
+        <h4 class="mb-0">
+            <i class="bi bi-car-front-fill"></i>
+            Data Jenis Kendaraan
+        </h4>
+
+        <a asp-action="Create" class="btn btn-primary">
+            <i class="bi bi-plus-circle"></i>
+            Tambah Data
+        </a>
+
+    </div>
+
+    <div class="card-body">
+
+        <form method="get" class="row mb-3">
+
+            <div class="col-md-4">
+
+                <input type="text"
+                       name="search"
+                       class="form-control"
+                       placeholder="Cari jenis kendaraan..."
+                       value="@Context.Request.Query["search"]" />
+
+            </div>
+
+            <div class="col-md-2">
+
+                <button class="btn btn-success">
+                    <i class="bi bi-search"></i>
+                    Cari
+                </button>
+
+            </div>
+
+        </form>
+
+        <div class="table-responsive">
+
+            <table id="dataTable"
+                   class="table table-bordered table-hover align-middle">
+
+                <thead class="table-dark">
+
+                    <tr>
+
+                        <th width="60">No</th>
+
+                        <th>Jenis Kendaraan</th>
+
+                        <th width="150">Tarif</th>
+
+                        <th width="120">Status</th>
+
+                        <th width="160">Aksi</th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody>
+
+                    @{
+                        int no = 1;
+                    }
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+
+                            <td>@no</td>
+
+                            <td>@item.NamaJenis</td>
+
+                            <td>
+                                Rp @item.Tarif.ToString("N0")
+                            </td>
+
+                            <td>
+
+                                @if (item.Status)
+                                {
+                                    <span class="badge bg-success">
+                                        Aktif
+                                    </span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-danger">
+                                        Non Aktif
+                                    </span>
+                                }
+
+                            </td>
+
+                            <td>
+
+                                <a asp-action="Edit"
+                                   asp-route-id="@item.Id"
+                                   class="btn btn-warning btn-sm">
+
+                                    <i class="bi bi-pencil-square"></i>
+
+                                </a>
+
+                                <a asp-action="Delete"
+                                   asp-route-id="@item.Id"
+                                   class="btn btn-danger btn-sm"
+                                   onclick="return confirmDelete(event,this)">
+
+                                    <i class="bi bi-trash"></i>
+
+                                </a>
+
+                            </td>
+
+                        </tr>
+
+                        no++;
+                    }
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts{
+
+<script>
+
+$(document).ready(function(){
+
+    $('#dataTable').DataTable({
+
+        responsive:true,
+
+        pageLength:10,
+
+        language:{
+
+            search:"Cari :",
+
+            lengthMenu:"Tampilkan _MENU_ data",
+
+            zeroRecords:"Data tidak ditemukan",
+
+            info:"Menampilkan _START_ - _END_ dari _TOTAL_ data",
+
+            paginate:{
+
+                first:"Awal",
+
+                last:"Akhir",
+
+                next:"→",
+
+                previous:"←"
+
+            }
+
+        }
+
+    });
+
+});
+
+</script>
+
+}

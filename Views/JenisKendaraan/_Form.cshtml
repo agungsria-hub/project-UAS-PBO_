@@ -1,0 +1,85 @@
+@model SistemRetribusiParkir.Models.JenisKendaraan
+
+<div class="row">
+
+    <!-- Nama Jenis -->
+    <div class="col-md-6 mb-3">
+
+        <label asp-for="NamaJenis"
+               class="form-label fw-semibold">
+        </label>
+
+        <input asp-for="NamaJenis"
+               class="form-control"
+               placeholder="Masukkan jenis kendaraan" />
+
+        <span asp-validation-for="NamaJenis"
+              class="text-danger">
+        </span>
+
+    </div>
+
+    <!-- Tarif -->
+    <div class="col-md-6 mb-3">
+
+        <label asp-for="Tarif"
+               class="form-label fw-semibold">
+        </label>
+
+        <div class="input-group">
+
+            <span class="input-group-text">
+                Rp
+            </span>
+
+            <input asp-for="Tarif"
+                   type="number"
+                   min="0"
+                   step="1000"
+                   class="form-control"
+                   placeholder="0" />
+
+        </div>
+
+        <span asp-validation-for="Tarif"
+              class="text-danger">
+        </span>
+
+    </div>
+
+    <!-- Keterangan -->
+    <div class="col-12 mb-3">
+
+        <label asp-for="Keterangan"
+               class="form-label fw-semibold">
+        </label>
+
+        <textarea asp-for="Keterangan"
+                  class="form-control"
+                  rows="4"
+                  placeholder="Masukkan keterangan (opsional)">
+        </textarea>
+
+        <span asp-validation-for="Keterangan"
+              class="text-danger">
+        </span>
+
+    </div>
+
+    <!-- Status -->
+    <div class="col-12">
+
+        <div class="form-check form-switch">
+
+            <input asp-for="Status"
+                   class="form-check-input" />
+
+            <label asp-for="Status"
+                   class="form-check-label">
+            </label>
+
+        </div>
+
+    </div>
+
+</div>

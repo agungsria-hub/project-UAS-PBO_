@@ -1,0 +1,225 @@
+@model SistemRetribusiParkir.Models.ViewModels.DashboardViewModel
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="container-fluid">
+
+    <div class="mb-4">
+
+        <h2 class="fw-bold">
+            Dashboard
+        </h2>
+
+        <p class="text-muted">
+            Sistem Pengelolaan Retribusi Parkir
+        </p>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-lg-3 col-md-6 mb-4">
+
+            <div class="card bg-primary text-white shadow">
+
+                <div class="card-body">
+
+                    <div class="d-flex justify-content-between">
+
+                        <div>
+
+                            <h6>Total Lokasi</h6>
+
+                            <h2>@Model.TotalLokasi</h2>
+
+                        </div>
+
+                        <i class="bi bi-geo-alt-fill display-5"></i>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-lg-3 col-md-6 mb-4">
+
+            <div class="card bg-success text-white shadow">
+
+                <div class="card-body">
+
+                    <div class="d-flex justify-content-between">
+
+                        <div>
+
+                            <h6>Jenis Kendaraan</h6>
+
+                            <h2>@Model.TotalJenisKendaraan</h2>
+
+                        </div>
+
+                        <i class="bi bi-car-front-fill display-5"></i>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-lg-3 col-md-6 mb-4">
+
+            <div class="card bg-warning text-dark shadow">
+
+                <div class="card-body">
+
+                    <div class="d-flex justify-content-between">
+
+                        <div>
+
+                            <h6>Petugas</h6>
+
+                            <h2>@Model.TotalPetugas</h2>
+
+                        </div>
+
+                        <i class="bi bi-person-badge-fill display-5"></i>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-lg-3 col-md-6 mb-4">
+
+            <div class="card bg-danger text-white shadow">
+
+                <div class="card-body">
+
+                    <div class="d-flex justify-content-between">
+
+                        <div>
+
+                            <h6>Transaksi</h6>
+
+                            <h2>@Model.TotalTransaksi</h2>
+
+                        </div>
+
+                        <i class="bi bi-receipt-cutoff display-5"></i>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-lg-4">
+
+            <div class="card shadow mb-4">
+
+                <div class="card-header">
+
+                    Total Pendapatan
+
+                </div>
+
+                <div class="card-body">
+
+                    <h2 class="text-success">
+
+                        Rp @Model.TotalPendapatan.ToString("N0")
+
+                    </h2>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-lg-8">
+
+            <div class="card shadow">
+
+                <div class="card-header">
+
+                    Grafik Pendapatan
+
+                </div>
+
+                <div class="card-body">
+
+                    <canvas id="chartPendapatan"></canvas>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts {
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script>
+
+        const ctx = document.getElementById("chartPendapatan");
+
+        new Chart(ctx, {
+
+        type: 'bar',
+
+        data: {
+
+        labels:@Html.Raw(System.Text.Json.JsonSerializer.Serialize(Model.LabelGrafik)),
+
+        datasets: [{
+
+        label: 'Pendapatan',
+
+        data:@Html.Raw(System.Text.Json.JsonSerializer.Serialize(Model.DataGrafik))
+
+        }]
+
+        },
+
+        options: {
+
+        responsive: true,
+
+        plugins: {
+
+        legend: {
+
+        display: false
+
+        }
+
+        }
+
+        }
+
+        });
+
+    </script>
+
+}

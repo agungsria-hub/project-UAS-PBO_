@@ -1,0 +1,135 @@
+@model SistemRetribusiParkir.Models.LokasiParkir
+
+@{
+    ViewData["Title"] = "Tambah Lokasi Parkir";
+}
+
+<div class="card shadow">
+
+    <div class="card-header bg-success text-white">
+
+        <h4 class="mb-0">
+            <i class="bi bi-geo-alt-fill"></i>
+            Tambah Lokasi Parkir
+        </h4>
+
+    </div>
+
+    <div class="card-body">
+
+        <form asp-action="Create"
+              method="post"
+              asp-antiforgery="true">
+
+            <div asp-validation-summary="ModelOnly"
+                 class="alert alert-danger">
+            </div>
+
+            <div class="row">
+
+                <!-- Nama Lokasi -->
+                <div class="col-md-6 mb-3">
+
+                    <label asp-for="NamaLokasi"
+                           class="form-label fw-semibold">
+                    </label>
+
+                    <input asp-for="NamaLokasi"
+                           class="form-control"
+                           placeholder="Masukkan nama lokasi parkir" />
+
+                    <span asp-validation-for="NamaLokasi"
+                          class="text-danger">
+                    </span>
+
+                </div>
+
+                <!-- Kapasitas -->
+                <div class="col-md-6 mb-3">
+
+                    <label asp-for="Kapasitas"
+                           class="form-label fw-semibold">
+                    </label>
+
+                    <input asp-for="Kapasitas"
+                           type="number"
+                           min="1"
+                           class="form-control"
+                           placeholder="Masukkan kapasitas kendaraan" />
+
+                    <span asp-validation-for="Kapasitas"
+                          class="text-danger">
+                    </span>
+
+                </div>
+
+                <!-- Alamat -->
+                <div class="col-12 mb-3">
+
+                    <label asp-for="Alamat"
+                           class="form-label fw-semibold">
+                    </label>
+
+                    <textarea asp-for="Alamat"
+                              class="form-control"
+                              rows="4"
+                              placeholder="Masukkan alamat lokasi parkir">
+                    </textarea>
+
+                    <span asp-validation-for="Alamat"
+                          class="text-danger">
+                    </span>
+
+                </div>
+
+                <!-- Status -->
+                <div class="col-12">
+
+                    <div class="form-check form-switch">
+
+                        <input asp-for="Status"
+                               class="form-check-input" />
+
+                        <label asp-for="Status"
+                               class="form-check-label">
+                        </label>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="mt-4">
+
+                <button type="submit"
+                        class="btn btn-success">
+
+                    <i class="bi bi-floppy"></i>
+
+                    Simpan
+
+                </button>
+
+                <a asp-action="Index"
+                   class="btn btn-secondary">
+
+                    <i class="bi bi-arrow-left"></i>
+
+                    Kembali
+
+                </a>
+
+            </div>
+
+        </form>
+
+    </div>
+
+</div>
+
+@section Scripts{
+
+    <partial name="_ValidationScriptsPartial" />
+
+}

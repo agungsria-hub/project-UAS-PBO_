@@ -1,0 +1,122 @@
+@model SistemRetribusiParkir.Models.ViewModels.LaporanViewModel
+
+@{
+    ViewData["Title"] = "Laporan";
+}
+
+<h2>Laporan Retribusi Parkir</h2>
+
+<form method="get">
+
+    <div class="row mb-3">
+
+        <div class="col-md-3">
+
+            <label>Tanggal Awal</label>
+
+            <input asp-for="TanggalAwal" type="date" class="form-control" />
+
+        </div>
+
+        <div class="col-md-3">
+
+            <label>Tanggal Akhir</label>
+
+            <input asp-for="TanggalAkhir" type="date" class="form-control" />
+
+        </div>
+
+        <div class="col-md-3 mt-4">
+
+            <button class="btn btn-primary">
+
+                Filter
+
+            </button>
+            <a asp-action="ExportPdf" asp-route-tanggalAwal="@Model.TanggalAwal?.ToString("yyyy-MM-dd")"
+               asp-route-tanggalAkhir="@Model.TanggalAkhir?.ToString("yyyy-MM-dd")" class="btn btn-danger">
+
+                Export PDF
+
+            </a>
+            <a asp-action="ExportExcel" asp-route-tanggalAwal="@Model.TanggalAwal?.ToString("yyyy-MM-dd")"
+               asp-route-tanggalAkhir="@Model.TanggalAkhir?.ToString("yyyy-MM-dd")" class="btn btn-success">
+
+                Export Excel
+
+            </a>
+        </div>
+    </div>
+
+</form>
+
+<table class="table table-bordered">
+
+    <thead class="table-dark">
+
+        <tr>
+
+            <th>Tanggal</th>
+
+            <th>No Polisi</th>
+
+            <th>Lokasi</th>
+
+            <th>Jenis</th>
+
+            <th>Petugas</th>
+
+            <th>Tarif</th>
+
+            <th>Bayar</th>
+
+        </tr>
+
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model.Data)
+        {
+            <tr>
+
+                <td>@item.Tanggal.ToString("dd/MM/yyyy")</td>
+
+                <td>@item.NomorKendaraan</td>
+
+                <td>@item.LokasiParkir?.NamaLokasi</td>
+
+                <td>@item.JenisKendaraan?.NamaJenis</td>
+
+                <td>@item.Petugas?.NamaPetugas</td>
+
+                <td>Rp @item.Tarif.ToString("N0")</td>
+
+                <td>Rp @item.JumlahBayar.ToString("N0")</td>
+
+            </tr>
+        }
+
+    </tbody>
+
+    <tfoot>
+
+        <tr>
+
+            <th colspan="6">
+
+                Total Pendapatan
+
+            </th>
+
+            <th>
+
+                Rp @Model.TotalPendapatan.ToString("N0")
+
+            </th>
+
+        </tr>
+
+    </tfoot>
+
+</table>

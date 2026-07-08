@@ -1,0 +1,138 @@
+@model SistemRetribusiParkir.Models.ViewModels.RetribusiViewModel
+
+<div class="row">
+
+    <!-- Tanggal -->
+    <div class="col-md-6 mb-3">
+
+        <label asp-for="Retribusi.Tanggal" class="form-label fw-semibold"></label>
+
+        <input asp-for="Retribusi.Tanggal"
+               type="date"
+               class="form-control" />
+
+        <span asp-validation-for="Retribusi.Tanggal"
+              class="text-danger"></span>
+
+    </div>
+
+    <!-- Nomor Kendaraan -->
+    <div class="col-md-6 mb-3">
+
+        <label asp-for="Retribusi.NomorKendaraan"
+               class="form-label fw-semibold"></label>
+
+        <input asp-for="Retribusi.NomorKendaraan"
+               class="form-control"
+               placeholder="Contoh: D 1234 ABC" />
+
+        <span asp-validation-for="Retribusi.NomorKendaraan"
+              class="text-danger"></span>
+
+    </div>
+
+    <!-- Lokasi -->
+    <div class="col-md-6 mb-3">
+
+        <label asp-for="Retribusi.LokasiParkirId"
+               class="form-label fw-semibold"></label>
+
+        <select asp-for="Retribusi.LokasiParkirId"
+                asp-items="Model.LokasiList"
+                class="form-select">
+
+            <option value="">-- Pilih Lokasi --</option>
+
+        </select>
+
+        <span asp-validation-for="Retribusi.LokasiParkirId"
+              class="text-danger"></span>
+
+    </div>
+
+    <!-- Jenis Kendaraan -->
+    <div class="col-md-6 mb-3">
+
+        <label asp-for="Retribusi.JenisKendaraanId"
+               class="form-label fw-semibold"></label>
+
+        <select asp-for="Retribusi.JenisKendaraanId"
+                asp-items="Model.JenisKendaraanList"
+                class="form-select"
+                id="JenisKendaraanId">
+
+            <option value="">-- Pilih Jenis Kendaraan --</option>
+
+        </select>
+
+        <span asp-validation-for="Retribusi.JenisKendaraanId"
+              class="text-danger"></span>
+
+    </div>
+
+    <!-- Petugas -->
+    <div class="col-md-6 mb-3">
+
+        <label asp-for="Retribusi.PetugasId"
+               class="form-label fw-semibold"></label>
+
+        <select asp-for="Retribusi.PetugasId"
+                asp-items="Model.PetugasList"
+                class="form-select">
+
+            <option value="">-- Pilih Petugas --</option>
+
+        </select>
+
+        <span asp-validation-for="Retribusi.PetugasId"
+              class="text-danger"></span>
+
+    </div>
+
+    <!-- Tarif -->
+    <div class="col-md-6 mb-3">
+
+        <label asp-for="Retribusi.Tarif"
+               class="form-label fw-semibold"></label>
+
+        <input asp-for="Retribusi.Tarif"
+               class="form-control bg-light"
+               readonly />
+
+        <span asp-validation-for="Retribusi.Tarif"
+              class="text-danger"></span>
+
+    </div>
+
+    <!-- Jumlah Bayar -->
+    <div class="col-md-6 mb-3">
+
+        <label asp-for="Retribusi.JumlahBayar"
+               class="form-label fw-semibold"></label>
+
+        <input asp-for="Retribusi.JumlahBayar"
+               class="form-control bg-light"
+               readonly />
+
+        <span asp-validation-for="Retribusi.JumlahBayar"
+              class="text-danger"></span>
+
+    </div>
+
+    <!-- Keterangan -->
+    <div class="col-md-6 mb-3">
+
+        <label asp-for="Retribusi.Keterangan"
+               class="form-label fw-semibold"></label>
+
+        <textarea asp-for="Retribusi.Keterangan"
+                  class="form-control"
+                  rows="3"
+                  placeholder="Opsional"></textarea>
+
+        <span asp-validation-for="Retribusi.Keterangan"
+              class="text-danger"></span>
+
+    </div>
+
+</div>

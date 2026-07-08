@@ -1,0 +1,43 @@
+@model SistemRetribusiParkir.Models.Petugas
+
+@{
+    ViewData["Title"] = "Tambah Petugas";
+}
+
+<div class="container mt-4">
+
+    <div class="card shadow">
+
+        <div class="card-header bg-success text-white">
+
+            <h4>Tambah Petugas</h4>
+
+        </div>
+
+        <div class="card-body">
+
+            <form asp-action="Create" method="post">
+
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <partial name="_Form" model="Model" />
+
+                <button type="submit" class="btn btn-success">
+                    Simpan
+                </button>
+
+                <a asp-action="Index" class="btn btn-secondary">
+                    Kembali
+                </a>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
